@@ -18,8 +18,6 @@ Transform any resume (PDF, text, or screenshot) into a stunning, mobile-responsi
 - "resume to HTML"
 - "deploy my resume"
 
-**Live Demo:**
-- [Feng Zhouchong's Resume](https://fengzhouchong-cv.pages.dev)
 
 [View Skill Documentation →](./resume-cv-skill/)
 
