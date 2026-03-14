@@ -1,0 +1,63 @@
+# Qoder Skills Collection
+
+A curated collection of AI Skills for [Qoder](https://github.com/James19890801/qoder) - empowering AI agents to perform complex tasks with professional-grade outputs.
+
+## Available Skills
+
+### 1. Resume/CV Generator
+
+Transform any resume (PDF, text, or screenshot) into a stunning, mobile-responsive HTML resume with automatic deployment.
+
+**Key Features:**
+- 🎨 Morandi color scheme - elegant and professional
+- 📱 Mobile-responsive design (iPhone optimized)
+- 📄 One-click PDF export with preserved styling
+- 🚀 Auto-deployment to Cloudflare Pages
+- 🔍 Smart gap detection and completeness scanning
+
+**Trigger Phrases:**
+- "help me make a resume"
+- "optimize my resume"
+- "create an online resume"
+- "resume to HTML"
+- "deploy my resume"
+
+**Live Demo:**
+- [Feng Zhouchong's Resume](https://fengzhouchong-cv.pages.dev)
+
+[View Skill Documentation →](./resume-cv-skill/)
+
+---
+
+## What is a Skill?
+
+A Skill is a structured instruction set that teaches AI agents how to perform specific tasks. Think of it as:
+
+- **A playbook** - Step-by-step workflows for complex tasks
+- **A style guide** - Design systems and quality standards
+- **A deployment manual** - Technical specifications and integration guides
+
+Skills enable AI to deliver consistent, professional-grade results without requiring users to write detailed prompts every time.
+
+## How to Use
+
+1. **Install Qoder** - Set up your AI agent environment
+2. **Import Skills** - Copy skill files to your skills directory
+3. **Trigger with Natural Language** - Use the trigger phrases to activate
+
+## Contributing
+
+Skills are open for contribution. Each skill should include:
+- Clear trigger phrases
+- Step-by-step workflow
+- Design specifications
+- Deployment instructions
+- Troubleshooting guide
+
+## License
+
+MIT License - Feel free to use, modify, and distribute.
+
+---
+
+*Built with ❤️ for the Qoder community*
