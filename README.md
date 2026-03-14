@@ -1,8 +1,4 @@
-# Qoder Skills Collection
 
-A curated collection of AI Skills for [Qoder](https://github.com/James19890801/qoder) - empowering AI agents to perform complex tasks with professional-grade outputs.
-
-## Available Skills
 
 ### 1. Resume/CV Generator
 
@@ -59,5 +55,3 @@ Skills are open for contribution. Each skill should include:
 MIT License - Feel free to use, modify, and distribute.
 
 ---
-
-*Built with ❤️ for the Qoder community*
