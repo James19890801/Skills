@@ -1,5 +1,4 @@
 
-
 ### 1. Resume/CV Generator
 
 Transform any resume (PDF, text, or screenshot) into a stunning, mobile-responsive HTML resume with automatic deployment.
@@ -20,6 +19,32 @@ Transform any resume (PDF, text, or screenshot) into a stunning, mobile-responsi
 https://wangxiaoming-cv.pages.dev
 
 [View Skill Documentation →](./resume-cv-skill/)
+
+---
+
+### 2. Process Monitor (流程智能监控设计专家)
+
+基于用户提供的流程信息和业务目标，引导完成监控指标定义、异常阈值设置、预警规则设计、根因分析框架构建，最终输出《流程智能监控方案》和可视化看板。
+
+**核心交付物：**
+- 📋 《流程智能监控方案》（Markdown格式）
+- 📊 可视化监控看板（HTML格式，带MOCK数据）
+- 📧 Owner预警报告模板
+
+**核心功能：**
+- 🎯 监控指标定义（时效类/质量类/异常类）
+- ⚠️ 异常规则设置（超时/驳回/转交/断点）
+- 🔍 根因分析框架
+- 🌳 优化决策树
+- 📈 可视化看板自动生成并预览
+
+**Trigger Phrases:**
+- "流程监控方案"
+- "设计监控指标"
+- "设置预警规则"
+- "流程健康度监控"
+
+[View Skill Documentation →](./process-monitor/)
 
 ---
 
